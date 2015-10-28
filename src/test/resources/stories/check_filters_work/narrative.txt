@@ -1,0 +1,4 @@
+Narrative:
+As a user
+I want to filter search results
+So that I can easily find needed product
