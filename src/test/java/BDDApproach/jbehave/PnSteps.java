@@ -49,7 +49,7 @@ public class PnSteps {
     pnSteps.selectProducer(producer);
   }
 
-  @Then("search result amount equals to number beside producer")
+  @Then("search result amount is equal to number beside producer")
   public void thenSearchResultAmountEqualToNumberBeside() {
     pnSteps.verifyProductAmount();
   }

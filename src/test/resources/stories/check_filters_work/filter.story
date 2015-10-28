@@ -18,7 +18,7 @@ Given I am on pn.com.ua
 When I select category Компьютеры
 And I select subcategory Мониторы
 And I select producer ASUS
-Then search result amount equals to number beside producer
+Then search result amount is equal to number beside producer
 And search result names start with ASUS
 
 Scenario: Check search
